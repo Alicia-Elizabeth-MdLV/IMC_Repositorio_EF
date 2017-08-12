@@ -1,0 +1,30 @@
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\bin\Debug\appIMC.exe.config
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\bin\Debug\appIMC.exe
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\bin\Debug\appIMC.pdb
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\obj\Debug\appIMC.csprojResolveAssemblyReference.cache
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\obj\Debug\appIMC.Form1.resources
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\obj\Debug\appIMC.Properties.Resources.resources
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\obj\Debug\appIMC.csproj.GenerateResource.Cache
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\obj\Debug\appIMC.exe
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\obj\Debug\appIMC.pdb
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\examenFinal-Mucha-Colca\Pregunta2\appIMC\appIMC\bin\Debug\appIMC.exe.config
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\examenFinal-Mucha-Colca\Pregunta2\appIMC\appIMC\obj\Debug\appIMC.exe
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\examenFinal-Mucha-Colca\Pregunta2\appIMC\appIMC\obj\Debug\appIMC.pdb
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\examenFinal-Mucha-Colca\Pregunta2\appIMC\appIMC\bin\Debug\appIMC.exe
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\examenFinal-Mucha-Colca\Pregunta2\appIMC\appIMC\bin\Debug\appIMC.pdb
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\examenFinal-Mucha-Colca\Pregunta2\appIMC\appIMC\obj\Debug\appIMC.csprojResolveAssemblyReference.cache
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\examenFinal-Mucha-Colca\Pregunta2\appIMC\appIMC\obj\Debug\appIMC.Form1.resources
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\examenFinal-Mucha-Colca\Pregunta2\appIMC\appIMC\obj\Debug\appIMC.Properties.Resources.resources
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\examenFinal-Mucha-Colca\Pregunta2\appIMC\appIMC\obj\Debug\appIMC.csproj.GenerateResource.Cache
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\EF_Evolución del Software_AliciaE_MdLV\Pregunta_02\appIMC\appIMC\bin\Debug\appIMC.exe.config
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\EF_Evolución del Software_AliciaE_MdLV\Pregunta_02\appIMC\appIMC\obj\Debug\appIMC.exe
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\EF_Evolución del Software_AliciaE_MdLV\Pregunta_02\appIMC\appIMC\obj\Debug\appIMC.pdb
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\EF_Evolución del Software_AliciaE_MdLV\Pregunta_02\appIMC\appIMC\bin\Debug\appIMC.exe
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\EF_Evolución del Software_AliciaE_MdLV\Pregunta_02\appIMC\appIMC\bin\Debug\appIMC.pdb
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\EF_Evolución del Software_AliciaE_MdLV\Pregunta_02\appIMC\appIMC\obj\Debug\appIMC.csprojResolveAssemblyReference.cache
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\EF_Evolución del Software_AliciaE_MdLV\Pregunta_02\appIMC\appIMC\obj\Debug\appIMC.Form1.resources
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\EF_Evolución del Software_AliciaE_MdLV\Pregunta_02\appIMC\appIMC\obj\Debug\appIMC.Properties.Resources.resources
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\EF_Evolución del Software_AliciaE_MdLV\Pregunta_02\appIMC\appIMC\obj\Debug\appIMC.csproj.GenerateResource.Cache
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\EF_Evolución del Software_AliciaE_MdLV\Pregunta_02\Calc_IMC\appIMC\bin\Debug\appIMC.exe.config
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\EF_Evolución del Software_AliciaE_MdLV\Pregunta_02\Calc_IMC\appIMC\obj\Debug\appIMC.exe
+C:\A_UNIDADES\CONTINENTAL\VIII CICLO\II MÓDULO\EVOLUCIÓN DE SOFTWARE\EF{\EF_Evolución del Software_AliciaE_MdLV\Pregunta_02\Calc_IMC\appIMC\obj\Debug\appIMC.pdb
